@@ -8,6 +8,7 @@ public class DemoStaticMethod {
     }
 
     public static void main(String[] args) {
+
         System.out.println(staticvar);
         m1();
     }
