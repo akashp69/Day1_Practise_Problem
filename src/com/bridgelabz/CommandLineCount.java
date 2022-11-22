@@ -10,6 +10,7 @@ public class CommandLineCount {
         int Y = Integer.parseInt(args [1]);
 
         int sum = (X+Y);
+        
         System.out.println(sum);
     }
 }
