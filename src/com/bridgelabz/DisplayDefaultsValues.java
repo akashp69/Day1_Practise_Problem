@@ -1,6 +1,9 @@
 package com.bridgelabz;
 
 public class DisplayDefaultsValues {
+  /**
+  *Using Static Variables For Print The Defaults Values
+  */
 
     static byte a;
     static short b;
@@ -10,8 +13,14 @@ public class DisplayDefaultsValues {
     static double f;
     static char g;
     static boolean h;
+  /**
+  *This Method is Created For Print the Defaults Values Of Primitive Data Types
+  */
 
     public static void main(String[] args) {
+  /**
+  *Print The Values Of Primitive Data Types
+  */
 
         System.out.println(a);
         System.out.println(b);
